@@ -59,7 +59,7 @@ pip install tensorflow numpy pandas scikit-learn matplotlib seaborn keras-tuner 
 ---
 
 ## Структура репозитория
-
+```
 ├── Lectures/           # PDF-файлы с теоретическими лекциями
 ├── Labs/               # Jupyter Notebooks с лабораторными работами
 │   ├── Lab_01_Neuron_Model.ipynb
@@ -70,3 +70,5 @@ pip install tensorflow numpy pandas scikit-learn matplotlib seaborn keras-tuner 
 │   └── Lab_09_NLP_RNN_CNN.ipynb
 ├── Datasets/
 └── README.md
+```
+
