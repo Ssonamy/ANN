@@ -85,13 +85,20 @@ pip install tensorflow numpy pandas scikit-learn matplotlib seaborn keras-tuner 
 │   ├── Python_Syntax.ipynb
 │   └── Numpy_Tasks.ipynb
 ├── Labs/                   # Основные лабораторные работы
-│   ├── Lab_01_Neuron_Model.ipynb
-│   ├── Lab_02_Keras_MNIST.ipynb
-│   ├── Lab_03_Regularization.ipynb
-│   ├── Lab_04_CNN.ipynb
-│   ├── Lab_05_Augmentation_Tuner.ipynb
-│   └── Lab_09_NLP_RNN_CNN.ipynb
+│   ├── Tasks/
+|   │   ├── Lab №1
+|   │   ├── Lab №2
+|   │   ├── Lab №3
+|   │   ├── Lab №4
+|   │   ├── Lab №5
+|   │   ├── Lab №9
+|   ├── Solutions/
+|   │   ├── Lab_01_Neuron_Model.ipynb
+|   │   ├── Lab_02_Keras_MNIST.ipynb
+|   │   ├── Lab_03_Regularization.ipynb
+|   │   ├── Lab_04_CNN.ipynb
+|   │   ├── Lab_05_Augmentation_Tuner.ipynb
+|   │   ├── Lab_09_NLP_RNN_CNN.ipynb
 ├── Datasets/               
 └── README.md
 ```
-
